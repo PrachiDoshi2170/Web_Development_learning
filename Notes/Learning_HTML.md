@@ -29,6 +29,11 @@ Ans. Some tags similar to `<hr/>` tag called the horizontal rule tag that adds a
 
 > Note: Make sure anytime you are using a `<br />` tag, if the lines you are separating are a part of the single paragraph make sure to first add the paragraph tag and then separae lines within the paragraph. This is generally termed as a good practice for readablity and accesibility when you are working with other developers. Hence keep this in mind while writing a code.
 
+<h1> Let's keep the motivation going on ✨🎉. Moving in little deeper into the HTML</h1> <br>
+<p>1. The underordered list is denoted by `<ul> </ul>` . Unordered list is just bullet points. <br>
+2. The list items in the list are enclosed within the tags `<li></li>`.
+3. The ordered/numbered list is denoted by enclosing the list within `<ol></ol>` tag.
+
 
 
 
